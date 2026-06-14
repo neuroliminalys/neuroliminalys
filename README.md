@@ -1,16 +1,59 @@
-## Hi there 👋
+## Learn about me 😎
+```console
+neuroliminalys@github/$ whoami
+```
+```text
+I am studying software development and system design.
+My main focuses are on AI, modular and scalable apps, built in microservices.
+```
 
-<!--
-**neuroliminalys/neuroliminalys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻️ Tech skills 
+```console
+neuroliminalys@github/$ languages
+```
+| Language   | Self confidence |              Affinity               | Start year |
+| :--------- | :-------------: | :---------------------------------: | ---------: |
+| HTML       |   █████████░     |                Great                |       2022 |
+| CSS        |   ████████░░     |                Good                 |       2022 |
+| Java       |   ████████░░     |                Great                |       2023 |
+| Python     |   ███████░░░     |                Good                 |       2023 |
+| SQL        |   █████████░     |                Great                |       2023 |
+| C#         |   ███████░░░     |                Good                 |       2024 |
+| Javascript |   ████████░░     |                Great                |       2025 |
+| Typescript |   ███████░░░     |                Good                 |       2026 |
+| Rust       |   ██░░░░░░░░    | Still learning when I have the time |       2026 |
 
-Here are some ideas to get you started:
+```console
+neuroliminalys@github/$ frameworks --includelibs
+```
+| Framework/Libs | Self confidence | Affinity |
+| :------------- | --------------- | -------- |
+| .NET           | ████████░░      | Good     |
+| Spring (Boot)  | ███████░░░      | Great    |
+| FastAPI        | ████████░░      | Great    |
+| React          | ███████░░░      | Great    |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ Current Projects
+```console
+neuroliminalys@github/$ projects --current
+```
+| Project name    | Description                                                               | Progress                     |
+| :-------------- | :-----------------------------------------------------------------------: | ---------------------------: |
+| Homelab monitor | A domotic website monitor for environment metrics and stock of materials  | Research (no repo for now)   |
+
+## 🎹️ My hobbies
+```console
+neuroliminalys@github/$ hobbies
+```
+```text
+- 3D printing and modeling, laser cutting, DIY,
+- Arduino, electronic
+- Music and animes/mangas
+- Videogames
+```
+
+## 🙏️ Credits
+| Username  | Github link                           | Gitlab link                            | Details                   |
+| :------   | :-----------------------------------: | :------------------------------------: | ------------------------: |
+| @Shiipou  | [Github](https://github.com/shiipou)  |                                        | Trained me as a developer |
+| @IsNotDes | [Github](https://github.com/IsNotDes) | [Gitlab](https://gitlab.com/esisar.eg) | Rust and Linux enjoyer    |
